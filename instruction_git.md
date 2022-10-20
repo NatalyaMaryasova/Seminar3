@@ -125,3 +125,5 @@ hash - идентификатор коммита, показываемый в л
 
     git branch -d <name_branch>
 
+git log --all -graph
+
